@@ -19,6 +19,7 @@ body {
 header {
     position: relative;
     text-align: center;
+    margin-top: 3em;
     padding: 1em;
     padding-top: 3em;
     padding-bottom: 2em;
@@ -27,6 +28,7 @@ header {
 
 .logo {
     max-width: 300px;
+    margin-bottom: 1em;
 }
 
 .brandname {
@@ -146,6 +148,10 @@ footer {
 
 /* Responsive Design: phone */
 @media screen and (max-width: 768px) {
+    header {
+        margin-top: 1em;
+        padding-top: 2em;
+    }
     .download-section {
         width: 90%;
     }
