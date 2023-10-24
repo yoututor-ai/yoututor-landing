@@ -5,6 +5,7 @@ body {
     background-color: #F2F2F2;
     color: #263035;
     font-family: 'Roboto Serif', serif;
+    line-height: 1.5;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
