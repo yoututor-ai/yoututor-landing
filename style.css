@@ -59,7 +59,7 @@ header {
 }
 
 .feature {
-    text-align: center;
+    text-align: left;
     flex-basis: calc(33.33% - 2em);
     margin: 1em;
     box-sizing: border-box;
